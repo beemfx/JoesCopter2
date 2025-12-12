@@ -1,11 +1,12 @@
-# Joe's Copter 2: The Revenge
+# Joe's Copter II: The Revenge (DOS Beta)
 (c) 1999 Beem Media. All rights reserved.
 
-Joe's Copter is a helicopter game (if you can call it that) developed in the
-early days of Beem Media.
+This is the beta version of Joes' Copter II: The Revenge that was developed in
+1999.
 
 ## Building
-Can be compiled with QBasic 4.5. It can also be run in a QBasic interpreter.
+Can be compiled with QBasic 4.5. It can also be run in a QBasic interpreter. See
+BUILD.BAT for easy building.
 
 ## History
 Originated: 1999
