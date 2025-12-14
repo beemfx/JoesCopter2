@@ -1,0 +1,3 @@
+[submodule "ScrollGIN"]
+	path = ScrollGIN
+	url = https://github.com/beemfx/ScrollGIN
